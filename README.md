@@ -11,6 +11,6 @@ List of prioritized features and technical debt work items
 
 ## Tasks
 
-| ID | Created By | Feature ID | Component | Description                                                     | Creation Date | Status      |
-|----|------------|------------|-----------|-----------------------------------------------------------------|---------------|-------------|
-| T1 | jrs        | F1         | schema    | Define, document, and implement the appropriate data structures | 3-13-2025     | In progress |
+| ID | Created By | Feature ID | Component | Description                                                     | Creation Date | Status   |
+|----|------------|------------|-----------|-----------------------------------------------------------------|---------------|----------|
+| T1 | jrs        | F1         | schema    | Define, document, and implement the appropriate data structures | 3-13-2025     | [Complete](https://github.com/jrstiffler16/ciq-schema/pull/1) |
